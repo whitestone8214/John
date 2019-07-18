@@ -1,0 +1,4 @@
+# See https://web.archive.org/web/20180516051919/https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/Tutorial/Manifest_Files
+
+# john/smith.html = chrome://maria/content/smith.html
+content maria john/
