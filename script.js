@@ -1,0 +1,1 @@
+document.body.innerHTML = "<p>SNS is the waste of your life.</p>"
