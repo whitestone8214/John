@@ -4,5 +4,5 @@
 echo ":: Build"
 cd src || exit 1
 zip -qr ../john.xpi * || exit 1
-cd ..
+cd .. || exit 1
 echo "Done."
